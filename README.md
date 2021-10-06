@@ -1,0 +1,2 @@
+# FunctionsPack-bedrock-
+yes
