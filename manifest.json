@@ -1,11 +1,25 @@
 {
-  "header":{
-    "version":[
-      0,0,1
-    ]
-    "modules":{
-      "uuid":""
-      "discription":"yes"
+  "header" : {
+    "version" : [
+      0,
+      0,
+      1
+    ],
+    "name" : "Advanced Function Pack",
+    "description" : "yes.",
+    "uuid" : "296ae044-05f4-11ec-9a03-0242ac130003"
+  },
+  "modules" : [
+    {
+      "version" : [
+        0,
+        0,
+        1
+      ],
+      "type" : "data",
+      "description" : "",
+      "uuid" : "296ae29c-05f4-11ec-9a03-0242ac130003"
     }
-  }
+  ],
+  "format_version" : 1
 }
