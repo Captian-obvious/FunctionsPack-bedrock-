@@ -1,9 +1,9 @@
 effect @e[type=!falling_block,y=~2, x=~,z=~,dx=-105,dy=41,dz=151] instant_damage 0 1
-kill @e [type=egg,x=~,y=~2,z=~,dx=-105,dy=41,dz=151]
-kill @e [type=arrow,x=~,y=~2,z=~,dx=-105,dy=41,dz=151]
-kill @e [type=item,x=~,y=~2,z=~,dx=-105,dy=41,dz=151]
-kill @e [type=xp_orb,x=~,y=~2,z=~,dx=-105,dy=41,dz=151]
-kill @e [type=snowball,x=~,y=~2,z=~,dx=-105,dy=41,dz=151]
+kill @e[type=egg,x=~,y=~2,z=~,dx=-105,dy=41,dz=151]
+kill @e[type=arrow,x=~,y=~2,z=~,dx=-105,dy=41,dz=151]
+kill @e[type=item,x=~,y=~2,z=~,dx=-105,dy=41,dz=151]
+kill @e[type=xp_orb,x=~,y=~2,z=~,dx=-105,dy=41,dz=151]
+kill @e[type=snowball,x=~,y=~2,z=~,dx=-105,dy=41,dz=151]
 fill ~~2~ ~-105~2~151 air 0 destroy
 fill ~~3~ ~-105~3~151 air 0 destroy
 fill ~~4~ ~-105~4~151 air 0 destroy
