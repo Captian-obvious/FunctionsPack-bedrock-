@@ -20,3 +20,9 @@ fill ~~15~ ~-105~15~151 air 0 destroy
 fill ~~16~ ~-105~16~151 air 0 destroy
 fill ~~17~ ~-105~17~151 air 0 destroy
 fill ~~18~ ~-105~18~151 air 0 destroy
+fill ~~19~ ~-105~19~151 air 0 destroy
+fill ~~20~ ~-105~20~151 air 0 destroy
+fill ~~21~ ~-105~21~151 air 0 destroy
+fill ~~22~ ~-105~22~151 air 0 destroy
+fill ~~23~ ~-105~23~151 air 0 destroy
+fill ~~24~ ~-105~24~151 air 0 destroy
