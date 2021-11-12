@@ -34,3 +34,6 @@ fill ~~28~ ~-105~28~151 air 0 destroy
 fill ~~29~ ~-105~29~151 air 0 destroy
 fill ~~30~ ~-105~30~151 air 0 destroy
 fill ~~31~ ~-105~31~151 air 0 destroy
+fill ~~32~ ~-105~32~151 air 0 destroy
+fill ~~33~ ~-105~33~151 air 0 destroy
+fill ~~34~ ~-105~34~151 air 0 destroy
